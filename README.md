@@ -1,8 +1,16 @@
 ![welcome image](https://i.imgur.com/7yGAXt7.jpg "Bryan says hi")
 
-👋Hey I'm Bryan! I build cool things to bring people together through software. I love using React and anything related to it along with all kinds of backend technologies to create full stack applications.
+👋 Hey I'm Bryan! I build cool things to bring people together through software. I love using React and anything related to it along with all kinds of backend technologies to create full stack applications.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braunsteinbryan&exclude_repo=braunsteinbryan.github.io&layout=compact)](https://github.com/braunsteinbryan/braunsteinbryan)
+
+My showcase projects are:
+---
+
+***[Bucketlist](https://sei-silk-road.github.io/bucketlist-client/#/)*** -> Keep track of your life's dreams.
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
