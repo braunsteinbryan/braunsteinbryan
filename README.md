@@ -20,10 +20,19 @@ Here's what I'm up to:
 
 Python
 
+Flask
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+More about blockchain development
+
+<!-- 👯 I’m looking to collaborate on all types of projects! I have lots of ideas! -  -->
+
+### 🤔 I’m looking for help finding a good first issue on an open-source project!
+
+📫 How to reach me:
+---
+
+***[Email](mailto:braunsteinbryan@gmail.com?subject=[GitHub]) [LinkedIn](https://www.linkedin.com/in/bryan-braunstein/)***
+
+😄 Pronouns: He/him
+
+⚡ Fun fact: I can roller skate or ice skate backwards
